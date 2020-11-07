@@ -1,6 +1,6 @@
 ## Versions
-php: ^7.3|^8.0 <br>
-laravel/framework: ^8.12 <br>
+1. php: ^7.3|^8.0 <br>
+2. laravel/framework: ^8.12 <br>
 ## Type the follwoing after downloading the required dependencies
 php artisan serve
 
