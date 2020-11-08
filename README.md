@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-athira2199-blue)]
+![author](https://img.shields.io/badge/author-athira2199-blue)
 ## Versions
 1. php: ^7.3|^8.0 <br>
 2. laravel/framework: ^8.12 <br>
